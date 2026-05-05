@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+    <string name="news_topics">IEEE科技新聞主題：A112280035</string>
+    <string name="aerospace">航太</string>
+    <string name="ai">人工智慧</string>
+    <string name="climate_tech">氣象科技</string>
+    <string name="biomedical">生物醫學</string>
+    <string name="computing">計算</string>
+    <string name="tech_news">科技新聞：</string>
+</resources>

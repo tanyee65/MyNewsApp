@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aerospace_array">
+        <item>28 Jan 2026 How Astronomers Found 6,000 Exoplanets (and Counting)</item>
+        <item>20 Jan 2026 The Quest to Build a Radio Telescope That Can Hear the Cosmic Dark Ages</item>
+        <item>01 Feb 2026 A Radio Telescope Lands On the Far Side of the Moon</item>
+        <item>01 Sep 2008 Allen Telescope Array Starts Search for E.T. Radio telescope array will seek out new life and new civilizations</item>
+        <item>16 Aug 2021 The New Supersonic Boom Aeronautical engineers strive for a fresh start two decades after Concorde\'s demise</item>
+        <item>25 Jul 2012 New Frontiers in SETI Research Gerry Harp, who has taken over Jill Tarter\'s job as research director at the SETI Institute, has high hopes for the hunt for alien life</item>
+        <item>02 Jul 2012 Where the Higgs News is Headed Despite rumors, there\'s not official word yet on whether hints of the Higgs particle can be elevated to the level of a discovery</item>
+        <item>01 Nov 2006 The New Search for E.T. If extraterrestrials are trying to communicate with us, they\'re probably using lasers, not radio waves</item>
+        <item>21 Aug 2009 Russia Reveals Vision for Manned Spaceflight A new design for a crew vehicle, launcher, and spaceport</item>
+        <item>05 Jun 2013 A Quantum Bank Comes to New York Conceptual art to create \"nearly infinite"\ cash via quantum superposition</item>
+        <item>23 Mar 2016 Swirly Antennas Will Hunt for the Twists of Ancient Gravitational Waves New kinds of detectors look back to the beginning of the universe</item>
+    </string-array>
+
+    <string-array name="ai_array">
+        <item>19 Jan 2026 AI Spurs More Papers, Fewer New Ideas in Research</item>
+        <item>03 Feb 2026 AI Hunts for the Next Big Thing in Physics</item>
+        <item>25 Nov 2025 How AI Models Misbehave Under Stress</item>
+        <item>08 Nov 2025 AI Models Struggle With Reading Analog Clock</item>
+        <item>09 Sep 2025 AI Agents Will Reshape Online Advertising</item>
+        <item>21 Oct 2025 High-Tech Weather Balloons Provide Data to Weather AI</item>
+        <item>11 Oct 2022 Robots and AI Could Optimize Lithium-Ion Batteries New automated system could quickly find new battery chemistries much faster than with brute-force human testing</item>
+        <item>10 Oct 2023 The Creepy New Digital Afterlife Industry These companies could use your data to bring you back—without your consent</item>
+        <item>18 Oct 2022 Machine Learning\'s New Math New number formats and basic computations emerge to speed up AI training</item>
+        <item>03 Aug 2020 New Records for AI Training Nvidia leads MLPerf training rankings with 16 records</item>
+        <item>02 Dec 2021 AI Training Is Outpacing Moore\'s Law The new set of MLPerf results proves it</item>
+        <item>12 May 2020 How Facebook Is Using AI to Fight COVID-19 Misinformation Facebook details the weapons deployed against fake coronavirus news</item>
+        <item>14 Feb 2020 AI in the 2020s Must Get Greener—and Here\'s How The push for energy efficient \"Green AI"\ requires new strategies</item>
+        <item>12 Feb 2019 4 Experts Respond to Trump\'s Executive Order on AI The new \"American AI Initiative"\ is heavy on bombast, light on specifics</item>
+    </string-array>
+
+    <string-array name="climate_tech_array">
+        <item>16 Jan 2017 New Projects Show Carbon Capture Is Not Dead Petra Nova, the world\'s biggest CCS project, started up last week, and other sites show that it\'s not just for coal anymore</item>
+        <item>18 Jun 2020 New Microsatellite Will Focus on Industrial Methane Emissions Canadian startup GHGSat will launch its second and much-improved microsatellite, named Iris, to pinpoint leaks</item>
+        <item>31 May 2024 Five Cool Tech Demos From the ARPA-E Summit New batteries and mining techniques shine at the annual energy showcase</item>
+        <item>17 Aug 2023 Hailsondes Launch Into Thunderstorms to Sound Them Out Hollywood inspires new tech to probe hail, cloudbursts, and devastation</item>
+        <item>27 Jan 2024 Satellite Tech Opens New Window on Antarctic Tracking new vs. old ice matters for forecasting sea-level-altering changes</item>
+        <item>03 Oct 2013 What Is the Actual Status of Carbon Capture Technology? Rules for new U.S. coal-fired plants throw the question into sharp relief</item>
+        <item>18 Jul 2023 Can Europe Be Carbon Neutral Through Sequestration? A new study suggests a massive scale-up of the tech would be needed</item>
+        <item>08 Oct 2018 New IPCC Report Outlines Ways to Limit Global Warming Preventing the global average temperature from rising by more than 1.5 degrees C will require new carbon-saving technologies to be more widely adopted</item>
+    </string-array>
+
+    <string-array name="computing_array">
+        <item>08 Dec 2025 A Quantum Components Industry Is Emerging New startups offer components for quantum computers</item>
+        <item>23 Feb 2026 AI\'s Math Tricks Don\'t Work for Scientific Computing</item>
+        <item>23 Dec 2025 Next-Level Quantum Computers Will Almost Be Useful</item>
+        <item>23 Nov 2025 Trillions Spent and Big Software Projects Are Still Failing</item>
+        <item>17 Nov 2025 Your Laptop Isn\'t Ready for LLMs. Yet.</item>
+        <item>13 Oct 2025 Next-Gen AI Needs Liquid Cooling</item>
+    </string-array>
+
+    <string-array name="biomedical_array">
+        <item>06 Mar 2026 The Millisecond That Could Change Cancer Treatment</item>
+        <item>22 Dec 2025 Can Sound Waves Replace Scalpels in Cancer Treatment?</item>
+        <item>12 Nov 2025 Why 3D Printing Isn\'t Cutting Prosthetic Costs</item>
+        <item>05 Oct 2025 How Wi-Fi Signals Can Help Track Your Heartbeat</item>
+        <item>29 Nov 2025 Software Flaws Risk Patient Safety</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_topics"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnSpace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aerospace"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnAI"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ai"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnClimate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/climate_tech"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnBiomedical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/biomedical"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnComputing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/computing"
+            android:textSize="20sp" />
+    </LinearLayout>
+</FrameLayout>
