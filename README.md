@@ -63,3 +63,7 @@ to view related technology news articles.
 ### Project Name
 
 `MyNewsApp`
+
+### Demo
+
+https://github.com/user-attachments/assets/5a1f162e-bdf4-4d95-a26f-f009ef70c998
